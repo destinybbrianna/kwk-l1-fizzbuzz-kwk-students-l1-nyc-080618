@@ -12,7 +12,9 @@ end
 
 hate_counter = 0 
 puts "and the hater's gonna"
-while hate_counter = hate_counter + 1 
+while hate_counter = hate_counter + 1
+hate_counter = 0 
+puts "and the hater's gonna"
 
 
 end 
