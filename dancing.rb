@@ -8,7 +8,7 @@ puts "step to right"
 counter = counter + 1
 end
 
-def shake_it off
+def shake_it_off
 play_counter = 0 
 puts "cause the player's gonna"
 while play_counter = play_counter + 1
@@ -20,7 +20,7 @@ while hate_counter = hate_counter + 1
 hate_counter = hate_counter + 1
 end
 end 
-shake it off 
+shake_it_off 
 
 
 
