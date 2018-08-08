@@ -19,6 +19,7 @@ hate_counter = 0
 while hate_counter < 5
 puts "and the hater's gonna"
 puts baby, im just gonna 
+hate_counter = hate_counter + 1
 end
 end 
 
