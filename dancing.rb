@@ -9,6 +9,7 @@ counter = counter + 1
 end
 
 def 
-counter = 0 
+play_counter = 0 
 while counter < 5 
 puts "cause the player's gonna"
+
