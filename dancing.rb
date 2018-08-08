@@ -5,3 +5,5 @@ counter = 0
 while counter < 5
 puts "steps to the left"
 puts "step to right"
+counter = counter + 1
+end
