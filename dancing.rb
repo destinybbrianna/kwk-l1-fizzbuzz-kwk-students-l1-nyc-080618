@@ -4,9 +4,7 @@
 
 
 def shake_it_off
-
-play_counter = 0 
-puts "cause the player's gonna"
+  
 while play_counter = play_counter + 1
 play_counter = 0 
 puts "cause the player's gonna"
