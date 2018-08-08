@@ -11,3 +11,4 @@ end
 def 
 counter = 0 
 while counter < 5 
+puts "cause the player's gonna"
